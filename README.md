@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # <img src="https://raw.githubusercontent.com/DanielBoj/DanielBoj/main/pixel-me.png" alt="Logo desarrollador de Dani Boj" width="60"> Hello, I am Dani Boj! 👋
+💬 Pronouns: They / Them
 
 ### 🛡️ SysAdmin & Security Lead | Linux Specialist
 *Systems Director & Security Lead. Building secure, efficient, and reliable infrastructures.*
