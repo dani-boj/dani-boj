@@ -1,44 +1,3 @@
-# <img src="https://raw.githubusercontent.com/DanielBoj/DanielBoj/main/pixel-me.png" alt="Logo desarrollador de Dani Boj" width="60"> Hola, soy Dani Boj! 👋
-### Sys-Admin | Advanced Linux Admin  🌱
-### Software Dev | Java Dev | Android Dev
-
-<img src="https://raw.githubusercontent.com/DanielBoj/DanielBoj/main/logo-personal-claro.png" alt="Logo desarrollador de Daniel Boj" width="300">
-
-
-## Techs 🔭
-**Sys-Admin** Linux | Windows</br>
-**Server Admin** - Windows Server | Debian | Ubuntu | Alma | Rocky</br>
-**Security** - Firewall | Encryption | SSL | User Administration | Hardening</br>
-**Virtualization** - Docker | Hyper-V | QEMU</br>
-
-**Developer**</br>
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-</br>
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)]()
-</br>
-[![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-</br>
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)]()
-[![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![React](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-</br>
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-</br>
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-
-## Contacto 📫
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](dbojdev@proton.me)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dboj@uoc.edu)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-boj-dev/)
-
 <!--
 **DanielBoj/DanielBoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,7 +30,7 @@ My mission is to bridge the gap between development and operations, leveraging m
 
 ## ⚙️ Thech Stack
 
-**Systems & Virtualization**
+###**Systems & Virtualization**
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
@@ -79,20 +38,20 @@ My mission is to bridge the gap between development and operations, leveraging m
 [![Hyper-V](https://img.shields.io/badge/Hyper--V-00A1E0?style=for-the-badge&logo=microsoft&logoColor=white)]()
 [![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)]()
 
-**Server Management**
+###**Server Management**
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)]()
 [![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)]()
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
-**Data Bases**
+###**Data Bases**
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)]()
 
-**Security**
+###**Security**
 [![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge&logo=pfSense&logoColor=white)]()
 [![Hardening](https://img.shields.io/badge/Hardening-2C3E50?style=for-the-badge&logo=linux&logoColor=white)]()
 [![Encryption](https://img.shields.io/badge/Encryption-4A148C?style=for-the-badge&logo=cryptography&logoColor=white)]()
@@ -105,12 +64,12 @@ My mission is to bridge the gap between development and operations, leveraging m
 [![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white)]()
 [![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)]()
 
-**Cloud y Automation**
+###**Cloud y Automation**
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)]()
 
-**Development**
+###**Development**
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)]()
@@ -122,10 +81,16 @@ My mission is to bridge the gap between development and operations, leveraging m
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)]()
 
-**Tools**
+###**Tools**
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)]()
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)]()
 [![Graylog](https://img.shields.io/badge/Graylog-FF4400?style=for-the-badge&logo=graylog&logoColor=white)]()
 [![Graylog](https://img.shields.io/badge/Graylog-20A0D0?style=for-the-badge&logo=graylog&logoColor=white)]()
+
+---
+## Contact 📫
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](dbojdev@proton.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dboj@uoc.edu)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-boj-dev/)
