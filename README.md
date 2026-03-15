@@ -28,11 +28,11 @@ My mission is to bridge the gap between development and operations, leveraging m
 **Resourceful, committed, and continuously evolving.**
 
 
-## ⚙️ Thech Stack
+## ⚙️ Tech Stack
 
 ### **Systems & Virtualization**
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)]()
 [![Hyper-V](https://img.shields.io/badge/Hyper--V-00A1E0?style=for-the-badge&logo=microsoft&logoColor=white)]()
