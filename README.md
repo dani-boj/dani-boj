@@ -32,7 +32,7 @@ My mission is to bridge the gap between development and operations, leveraging m
 
 ### **Systems & Virtualization**
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)]()
 [![Hyper-V](https://img.shields.io/badge/Hyper--V-00A1E0?style=for-the-badge&logo=microsoft&logoColor=white)]()
@@ -46,10 +46,11 @@ My mission is to bridge the gap between development and operations, leveraging m
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 ### **Data Bases**
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
 ### **Security**
 [![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge&logo=pfSense&logoColor=white)]()
@@ -59,13 +60,11 @@ My mission is to bridge the gap between development and operations, leveraging m
 [![Red Team](https://img.shields.io/badge/Red_Team-B71C1C?style=for-the-badge&logo=attack&logoColor=white)]()
 [![ENS](https://img.shields.io/badge/ENS-003A6B?style=for-the-badge&logo=seguridad&logoColor=white)]()
 [![Wazuh](https://img.shields.io/badge/Wazuh-00A3E0?style=for-the-badge&logo=wazuh&logoColor=white)]()
-[![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)]()
-[![Wazuh](https://img.shields.io/badge/Wazuh-EF7D00?style=for-the-badge&logo=wazuh&logoColor=white)]()
-[![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white)]()
 [![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)]()
 
 ### **Cloud y Automation**
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)]()
 
@@ -79,7 +78,6 @@ My mission is to bridge the gap between development and operations, leveraging m
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)]()
 
 ### **Tools**
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
@@ -87,7 +85,6 @@ My mission is to bridge the gap between development and operations, leveraging m
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)]()
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)]()
 [![Graylog](https://img.shields.io/badge/Graylog-FF4400?style=for-the-badge&logo=graylog&logoColor=white)]()
-[![Graylog](https://img.shields.io/badge/Graylog-20A0D0?style=for-the-badge&logo=graylog&logoColor=white)]()
 
 ---
 ## Contact 📫
